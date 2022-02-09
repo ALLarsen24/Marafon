@@ -42,7 +42,7 @@ body {
   line-height: 24px;
   color: #595959;
 
-  padding: 0 0 0 16px;
+  padding: 0 0 0 17px;
 }
 .date {
   font-style: normal;
@@ -94,6 +94,13 @@ body {
   line-height: 20px;
   color: #fb6d3a;
 }
+.devider {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
 .Education_section {
   padding: 0px 0px 0px 88px;
 }
@@ -130,7 +137,6 @@ body {
   font-weight: normal;
   font-size: 14px;
   line-height: 24px;
-  /* or 171% */
   color: #ffffff;
   opacity: 0.5;
 }
